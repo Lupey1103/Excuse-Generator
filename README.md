@@ -1,6 +1,6 @@
 # Felix the Excuse Generator
 
-# http://lupey1103.gitpod.io/Excuse-Generator
+# https://lupey1103.github.io/Excuse-Generator/
 
 <br>
 
